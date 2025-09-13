@@ -2,6 +2,9 @@
 author: vaisak
 ---
 
+demo poc:
+![demo](./embud-in-nvim-poc.mp4)
+
 # Potential idea:
 
 ## Embudding applications in terminal/neovim
@@ -57,3 +60,7 @@ env -u WAYLAND_DISPLAY drawio ./hello.drawio.png
 ```
 # the wayland book
 https://archive.is/sP1kx
+
+
+
+
